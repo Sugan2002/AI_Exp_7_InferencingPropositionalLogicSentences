@@ -160,5 +160,3 @@ wumpus_kb.ask_if_true(~P41)
 
 ## RESULT
 Thus, the developed agent can predict the next move in the wumpus game using propositional logic sentences .
-
-
