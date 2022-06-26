@@ -100,6 +100,17 @@ wumpus_kb.tell(B34 | '<=>' | ((P33| P44)))
 wumpus_kb.clauses
 wumpus_kb.ask_if_true(~P41)
 ```
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 </br>
 </br>
 </br>
@@ -119,11 +130,39 @@ wumpus_kb.ask_if_true(~P41)
 ## OUTPUT
 ### Checking in algorithm:
 ![1_AI](https://user-images.githubusercontent.com/77089743/175824489-65b28283-9a47-432a-8e07-fd5d464ce21c.PNG)
+
+</br>
+
 ![2_AI](https://user-images.githubusercontent.com/77089743/175824493-c8b6a628-e5d4-44e9-9972-18b9d11bf701.PNG)
+
+</br>
+</br>
+</br>
 
 ### Propositional logic:
 ![3_AI](https://user-images.githubusercontent.com/77089743/175824502-5f579e15-0344-45f0-ae15-96c46df8e27c.PNG)
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 </br>
 </br>
 </br>
@@ -143,16 +182,38 @@ wumpus_kb.ask_if_true(~P41)
 
 ![4](https://user-images.githubusercontent.com/77089743/175825257-394e9885-1abd-41c1-9055-9283d4ae41bc.PNG)
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ### Mid of the game:
 ![5](https://user-images.githubusercontent.com/77089743/175825251-43654978-752a-4f7e-b6c6-915c7ce1ad2c.PNG)
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
-</br>
-</br>
-</br>
-</br>
-</br>
 
 ### end of the game:
 ![6](https://user-images.githubusercontent.com/77089743/175825215-5ddfb62c-2e44-448d-8c49-6e1ab4363e1b.PNG)
